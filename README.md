@@ -1,5 +1,5 @@
 # Nombre: Federico Nova
 
-# Link GitHub: 
+# Link GitHub: https://github.com/feden15/desafio-semana-01.git
 
-# Link Netlify: 
+# Link Netlify: https://desafio-semana-01.netlify.app/
